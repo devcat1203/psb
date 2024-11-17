@@ -1,5 +1,5 @@
 # NoGuardian
-Bypass GoGuardian with ease!
+Bypass GoGuardian with ease! Join the [discord](https://discord.gg/up3YZuZbAk) for updates and more!
 
 # Progress
 Although completely a WIP, the progress can be seen below:
