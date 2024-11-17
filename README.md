@@ -11,4 +11,4 @@ Although completely a WIP, the progress can be seen below:
 - [ ] get it on chrome webstore
 - [ ] upload source here!!
 # Downloading and Installing
-It's best to use the CRX with dev mode on, the CRX files can be found in the releases. If dev mode is not an option, you may use the chrome webstore version, although this version is prone to being banned.
+It's best to use the CRX with dev mode on, the CRX files can be found in the [releases](https://github.com/lilcloutier/NoGuardian/releases/latest). If dev mode is not an option, you may use the chrome webstore version, although this version is prone to being banned.
