@@ -1,4 +1,4 @@
-![](https://cdn.discordapp.com/attachments/1199833240568070176/1307621482335174666/IMG_0093.png?ex=673af8e7&is=6739a767&hm=cc9aebe73e1b610535c1c4bcd5752da846cca702aaeb0560b5617c7990a80650&)
+![[](https://cdn.discordapp.com/attachments/1199833240568070176/1307621482335174666/IMG_0093.png?ex=673af8e7&is=6739a767&hm=cc9aebe73e1b610535c1c4bcd5752da846cca702aaeb0560b5617c7990a80650&)](https://discord.gg/up3YZuZbAk)
 # NoGuardian
 Bypass GoGuardian with ease! Join the [discord](https://discord.gg/up3YZuZbAk) for updates and more!
 
