@@ -5,10 +5,10 @@ NoGuardian - a decentralized approach to bypass GoGuardian. Join the [discord](h
 # Progress
 Although completely a WIP, the progress can be seen below:
 - [x] make concept
-- [ ] make extension base
+- [ ] make website base
 - [ ] code the main js file
 - [ ] put it together
-- [ ] get it on chrome webstore
+- [ ] get discord published
 - [ ] upload source here!!
-# Downloading and Installing
-It's best to use the CRX with dev mode on, the CRX files can be found in the [releases](https://github.com/lilcloutier/NoGuardian/releases/latest). If dev mode is not an option, you may use the chrome webstore version, although this version is prone to being banned.
+# Usage
+Just download the html (source.zip), use Kiosk to host it, and use that. Or use the website if it's unblocked.
